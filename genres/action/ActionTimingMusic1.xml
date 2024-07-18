@@ -9,7 +9,7 @@
     <encoding>
       <software>Finale 2010 for Windows</software>
       <software>Dolet Light for Finale 2010</software>
-      <encoding-date>2024-07-02</encoding-date>
+      <encoding-date>2024-07-18</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
     </encoding>
@@ -159,7 +159,7 @@
       </attributes>
       <direction directive="yes" placement="above">
         <direction-type>
-          <words default-y="40" font-size="12" font-weight="bold">Allegro nervoso </words>
+          <words default-y="40" font-size="12" font-weight="bold">Nervoso </words>
         </direction-type>
         <direction-type>
           <metronome font-family="EngraverTextT" font-size="10.25" font-weight="normal">
